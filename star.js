@@ -5,4 +5,4 @@ for (i = 0; i <= arrey.length; i++) {
         temp = arrey[i]
     }
 }
-console.log(temp);
+console.log("hiiii"nehaatemp);
